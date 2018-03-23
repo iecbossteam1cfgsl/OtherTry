@@ -21,6 +21,6 @@ public class Try {
 		System.out.println("heloo from iecboss");
 	}
 	public void method4boss() {
-		
-	}System.out.println("heloo from prog1");
+		System.out.println("heloo from prog1");
+	}
 }
