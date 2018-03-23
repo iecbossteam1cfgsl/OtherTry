@@ -11,7 +11,7 @@ public class Try {
 	public static void main(String []args) {
 		
 	}
-	public void method1() {
+	public void method1boss() {
 		System.out.println("heloo from iecboss");
 	}
 }
