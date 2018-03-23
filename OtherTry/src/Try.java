@@ -14,4 +14,7 @@ public class Try {
 	public void method1boss() {
 		System.out.println("heloo from iecboss");
 	}
+	public void method1prog1() {
+		System.out.println("heloo from prog1");
+	}
 }
