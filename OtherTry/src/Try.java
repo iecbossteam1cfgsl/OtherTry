@@ -20,7 +20,7 @@ public class Try {
 	public void method3boss() {
 		System.out.println("heloo from iecboss");
 	}
-	public void method4boss() {
+	public void method4prog1() {
 		System.out.println("heloo from prog1");
 	}
 }
