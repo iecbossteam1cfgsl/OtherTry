@@ -23,4 +23,7 @@ public class Try {
 	public void method4prog1() {
 		System.out.println("heloo from prog1");
 	}
+	public void method5boss(){
+		System.out.println("heloo from iecboss");
+	}
 }
