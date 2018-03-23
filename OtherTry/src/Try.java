@@ -8,4 +8,8 @@ public class Try {
 		this.param2 = param2;
 	}
 	
+	public static void main(String []args) {
+		
+	}
+	
 }
